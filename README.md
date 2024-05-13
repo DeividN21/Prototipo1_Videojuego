@@ -7,25 +7,24 @@ Crear un prototipo de videojuego sencillo utilizando Unity que demuestre las hab
 ### Títulos y audios:
 -https://pacobarba.com/recursos/RecursosMiniMapaPacoBarba.zip
 
-# Vista General de la Escena
+# Vista del Menú Principal
 ![Imagen](https://github.com/DeividN21/Taller_3/blob/main/TanqueE.png?raw=true)
 
-# Instrucciones para Navegar por la Escena:
+# Instrucciones para Navegar por el Videojuego
 ### Primero:
-Se muestra al personaje (tanque), el cual tendrá que ir por el escenario e ir disparando a los enemigos. Usando las flechas o las teclas AWSD.
+Para desplazarse entre las opciones y para mover al personaje entre los niveles del mapa se usan las flechas.
 
 ![Imagen](https://github.com/DeividN21/Taller_2/blob/main/Instrucciones1.png?raw=true)
-#
-Se dispara con la barra espaciadora.
+
+
+### Segundo:
+Para el movimiento de las piezas y para seleccionar los botones se utiliza el mouse.
+![Imagen](https://github.com/DeividN21/Taller_3/blob/main/Tanque2.png?raw=true)
+
+### Tercero:
+Para la selección de una opción o de un nivel en específico se utiliza la barra espaciadora.
 
 ![Imagen](https://github.com/DeividN21/Taller_3/blob/main/Tanque3.png?raw=true)
-### Segundo:
-Se debe ir disparando a los enemigos porque estos se generan cada cierto tiempo.
-![Imagen](https://github.com/DeividN21/Taller_3/blob/main/Tanque2.png?raw=true)
-### Tercero:
-La ejecución de la escena termina si uno de los enemigos choca con la pared inferior. Es decir, se debe iniciar la ejecución nuevamente.
-
-![Imagen](https://github.com/DeividN21/Taller_3/blob/main/Fin.png?raw=true)
 
 # Enlace del Video de Demostración
 - Enlace
